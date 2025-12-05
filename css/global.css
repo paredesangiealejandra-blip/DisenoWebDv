@@ -1,0 +1,83 @@
+body{background-color: black;
+color: white;
+font-family: fuenteparrafo; margin: 0;
+}
+
+header{ margin: 0; color: white; }
+
+h1{margin: 0;}
+
+@font-face {
+    font-family: fuenteparrafo ;
+    src: url(/fuentes/OpenSans-Medium.ttf);}
+@font-face {
+    font-family: montserrattitulo;
+    src: url(/fuentes/Montserrat-Black.ttf);}
+
+.titulos{font-family: montserrattitulo; 
+  font-size: 30px;
+   padding: 10px;
+   text-align: center; }
+
+.subtitulos {font-size: 25px;
+    font-family: montserrattitulo;align-items:center; justify-content: center ;
+  margin-left: 30px;
+   margin-right: 30px;}
+
+p{font-size: 20px;margin-left: 30px; margin-right: 40px;}
+
+.derecha{ text-align: right;}
+
+.centrado {text-align: center; 
+    justify-content: center;}
+
+.aheader{
+    font-family: montserrattitulo;
+    text-decoration: none;
+    color: white;
+    text-shadow: 0 0 10px black;
+    font-size: 30px;
+     text-align: center; background-color: rgba(157, 161, 114, 0.568); border-radius: 20px; padding: 15px;
+}
+.navheader{ background-color: black; height: 70px;
+margin-left: 15%;
+ margin-right: 15%; 
+gap: 30px; 
+ text-align: center; margin: 0 20px; padding: 20px;}
+
+.divheader{ padding: auto;
+    text-align: center;
+font-size: 40px; 
+font-family: montserrattitulo;
+ }
+
+footer{text-align: center; font-family: montserrattitulo;
+     font-size: 30px; 
+background-color: black;
+height: 70px;
+}
+.footernav{ gap: 20px; }
+
+.afooter{text-decoration: none;
+color: white; }
+
+
+.logo{width: 600px; background-color: black; }
+
+.redes{ background-color: black;
+  justify-content: center; 
+  align-items: center;     
+  gap: 80px; padding: auto;               
+  margin-top: 20px; 
+} 
+
+.redesicono {   width: 180px;
+  height: auto;
+margin-bottom: 50px}
+
+#iconodisney 
+ { 
+   width: 180px;
+  height: auto;
+margin-bottom: 50px; padding: 2%;
+ }

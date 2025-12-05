@@ -1,0 +1,23 @@
+
+*{margin: 0;
+padding: 0
+;}
+.relleno, button{padding: 20px;}
+label{font-family: montserrattitulo;}
+legend{font-family: montserrattitulo; font-size: 20px}
+form{ 
+    
+    background-color: rgba(126, 128, 102, 0.397); 
+    width: 60%;
+    margin: 100px auto;
+max-width: 1000%;
+border-radius: 20px;}
+
+fieldset{
+ display: flex;
+    flex-direction: column; font-family: fuenteparrafo;
+
+}
+
+input,button{ 
+    font-family: montserrattitulo;;font-size: 30px; padding: 20px;}

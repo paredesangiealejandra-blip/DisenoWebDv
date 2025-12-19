@@ -6,27 +6,32 @@ body{background-color: aliceblue;}
     gap: 3%;
     width: 90%;
     margin: 3% auto;}
+
     .text{ width: 80%;
     font-size: 20px ;
     text-align: left; margin-left: 30px; justify-content: center;}
   
 .imgsobrelaserie{width: 700px; border-radius: 30px;}
 
-.imgcreadores {border-radius: 30px; width: 300px;}
+.imgcreadores {border-radius: 30px; width: 600px;}
 
 .contenedorcreadores {
-    display: flex;
+   display: flex;
+    align-items: center;
+    justify-content: space-around;
     flex-wrap: wrap;
-    justify-content: center;
-    gap: 2%;
-    width: 70%;
-    margin: 0 auto;}
+    margin: 5% auto;
+    width: 90%; 
+    margin-top: 5%;
+  
 
-    .tarjeta{
-        flex: 1 1 45%;
-    text-align: center;
-    margin-bottom: 3%;
-    }
+   }
 
+   
+.tarjetacreadores{
+  
+     font-size: 20px;
+    width: 40%; margin: 3% auto;
+}
     .video{aspect-ratio: 16/9;
     border-radius: 20px;}

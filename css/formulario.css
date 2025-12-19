@@ -1,2 +1,11 @@
 h2{text-align: center;
 font-size: 30px}
+
+.imgform{ 
+text-align: center;    margin-left: 28%;
+  border-radius: 30px;
+width: 900px;}
+
+.titulosform{font-family: montserrattitulo; 
+  font-size: 50px;
+   text-align: center;}

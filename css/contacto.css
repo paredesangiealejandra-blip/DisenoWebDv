@@ -9,7 +9,7 @@ form{
     
     background-color: rgba(126, 128, 102, 0.397); 
     width: 60%;
-    margin: 100px auto;
+    margin: 10px auto;
 max-width: 1000%;
 border-radius: 20px;}
 
@@ -21,3 +21,5 @@ fieldset{
 
 input,button{ 
     font-family: montserrattitulo;;font-size: 30px; padding: 20px;}
+
+    

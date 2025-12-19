@@ -1,5 +1,14 @@
-.titulos404{font-family: montserrattitulo; 
-  font-size: 70px;
-   text-align: center; }
 
-   p{font-size: 20px;margin-left: 50px; margin-right: 40px; text-align: center;}
+.titulos404{font-family: montserrattitulo; 
+  font-size: 50px;
+   text-align: center; }
+.subtitulos404{font-family: montserrattitulo; 
+  font-size: 30px;
+   text-align: center; margin : 1%; }
+
+   .imgrogu{
+ margin-left: 30%;
+  border-radius: 30px;
+width: 800px;}
+
+

@@ -31,8 +31,10 @@ p{font-size: 20px;margin-left: 30px; margin-right: 40px;}
 .centrado {text-align: center; 
     justify-content: center;}
 
-.aheader{
-    font-family: montserrattitulo;
+.aheader:hover{color: rgb(235, 222, 150);}
+.aheader{ 
+  
+  font-family: montserrattitulo;
     text-decoration: none;
     color: white;
     text-shadow: 0 0 10px black;

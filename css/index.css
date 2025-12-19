@@ -4,8 +4,7 @@ h1{text-align: center;}
 h2{font-size: 20; margin-left: 15%;
     margin-right: 15%; text-align: center;}
 
-.imginicio{width: 1920px; padding: 30px
-    ;}
+.imginicio{width:100%; }
 
     .error404{ font-family: montserrattitulo;
     text-decoration: none;
@@ -18,3 +17,4 @@ margin-left: 40%;
  margin-right: 25%; 
 
     }
+    .error404:hover{color: rgb(235, 222, 150)  }

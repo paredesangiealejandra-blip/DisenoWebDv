@@ -17,6 +17,7 @@
     margin-right: 50px;
 }
 
+
 .tarjetasreparto{
     background-color: rgba(126, 128, 102, 0.397);
     border: #ffffff5b;
@@ -25,8 +26,7 @@
     border-radius: 40px;
     margin-bottom: 50px;
     text-align: center;
-  
-}
+  }
 
 .tarjetaimagen{
     width: 200px;
